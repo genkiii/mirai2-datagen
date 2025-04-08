@@ -1,0 +1,15 @@
+# 海氷予測データ
+
+|===
+|パス|内容
+
+|create_geojson_iceconc.py|netCDFからgeojsonを生成する
+|&nbsp;&nbsp;→ xarray_util.py|
+|&nbsp;&nbsp;&nbsp;&nbsp;→ xarray.py|
+|&nbsp;&nbsp;→ am.py|
+|&nbsp;&nbsp;→ contourpyshapely.py|
+|&nbsp;&nbsp;→ rotatedpole.py|
+|&nbsp;&nbsp;→ polar2geo.py|
+|&nbsp;&nbsp;→ shapely2geojson.py|
+|===
+
